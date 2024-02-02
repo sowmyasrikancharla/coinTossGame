@@ -1,0 +1,55 @@
+/* Write your CSS here */
+.main-con {
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sub-con {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+  height: 70vh;
+  width: 30%;
+  margin-top: 5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.head {
+  font-size: 30px;
+  color: #a35200;
+  text-align: center;
+  font-family: Roboto;
+}
+.sub-head {
+  color: #334155;
+  font-size: 22px;
+  font-family: Roboto;
+  text-align: center;
+}
+.but {
+  background-color: #f9d423;
+  color: #a35200;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  border-style: none;
+}
+.image-set {
+  height: 15vh;
+  width: 29%;
+  margin: 10px;
+}
+.para {
+  color: #475569;
+  margin: 5px;
+}
+.mini-con {
+  display: flex;
+  flex-direction: row;
+  margin: 10%;
+}
